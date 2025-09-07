@@ -82,6 +82,7 @@ const useStyles = createUseStyles(
       gap: 16,
     },
     search: {
+      color: '#111827',
       width: '100%',
       fontSize: 16,
       padding: [12, 16],
